@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#image-container {
+  display: flex;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+}
+
+button {
+  margin-top: 10px;
+}
